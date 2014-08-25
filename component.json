@@ -3,7 +3,7 @@
   "name": "alexa",
   "repo": "logo/alexa",
   "description": "The Alexa logo.",
-  "version": "0.0.1",
+  "version": "0.2.1",
   "license": "MIT",
   "styles": [
     "style.css"
